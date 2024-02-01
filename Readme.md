@@ -18,3 +18,7 @@ Este proyecto interactúa con una base de datos SQL para almacenar y recuperar i
 ## Uso
 
 Para utilizar este proyecto, primero debe registrarse para obtener una cuenta. Una vez que haya iniciado sesión, podrá reservar habitaciones.
+
+## Autor
+
+Martí Díaz
