@@ -21,4 +21,4 @@ Para utilizar este proyecto, primero debe registrarse para obtener una cuenta. U
 
 ## Autor
 
-Martí Díaz
+Martín Díaz
