@@ -1,0 +1,46 @@
+:root {
+    --verdeClaro: #c1ddc7;
+    --verde: #bbcd77;
+    --beigeClaro: #f5e8c6;
+    --beige: #f4d279;
+    --rojo: #dc8051;
+    --oscuro: #2b2a2a;
+}
+
+.logo {
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.hero-image {
+    position: relative;
+    background-image: url('images/home.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-image:before {
+    content: ' ';
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 0;
+}
+
+.hero-titles {
+    position: relative;
+    z-index: 1;
+}
+
+.main-btn {
+    background-color: var(--verde);
+}
+
+.second-btn {
+    background-color: var(--beigeClaro);
+}
+
+.mje-usuario {
+    color: var(--rojo);
+}
